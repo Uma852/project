@@ -1,0 +1,100 @@
+.container img
+{
+   border-radius:50%;
+   size:10cm;
+   height: 220px;
+   width:220px;
+   zoom: 120%;
+}
+.container {
+    color: navy;
+    text-align: center;
+   
+}
+.aboutme
+{
+    padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+    background-color: navy;
+    color:whitesmoke;
+}
+.image
+{
+    background-size: cover;
+    size=100%;
+}
+body{
+    margin:0;
+    padding:0px;
+    backgroung-color:yellow;
+background-image: url('C:\Users\Uma Maheshwari\OneDrive\Pictures\Saved Pictures\background.jpg');   
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.box
+{
+    width:250px;
+    text-align: center;
+    margin:auto;
+    margin-top: 5%;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.para
+{
+    text-align: left;
+    font-family: sora;
+    color:navy;
+}
+.helllo
+{
+    align-self: center;
+}
+i{
+    color: black;
+}
+.column ,.column1{
+    float: left;
+    width: 33.33%;
+    padding: 45px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column1{
+      size: 10px;
+      height:220px;
+      width:220px;
+  }
+  .interest
+  {
+      
+      padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  background-color: navy;
+  color:whitesmoke;
+  }
+  hr.new1 {
+    border-top: 1px solid red;
+  }
+  div {border-width: thick;}  
+  .connect1
+  {
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    background-color: navy;
+    color:whitesmoke;
+  }
+  .para{
+      align:right;
+  }
